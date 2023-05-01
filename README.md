@@ -10,5 +10,5 @@ To add the URDF to your robot, instantiate it as follows, substituting `front_mo
 
 <xacro:flir_thermal_camera prefix="a400" parent_link="front_mount">
   <origin xyz="0 0 0" rpy="0 0 0" />
-</xacro:flir_a400>
+</xacro:flir_thermal_camera>
 ```
